@@ -1,96 +1,60 @@
-🎬 Netflix Data Analysis Dashboard
-📌 Project Overview
+Netflix Data Analysis using Excel
+Project Overview
 
-This project analyzes a Netflix dataset to uncover insights about content distribution, genres, ratings, and release trends.
-Using Excel and Power BI, an interactive dashboard was created to visualize patterns in Netflix movies and TV shows.
+This project focuses on analyzing Netflix dataset using Microsoft Excel. The objective is to understand content trends, viewer behavior, assess rating patterns, identify high-performing genres, and evaluate content distribution across years.
 
-The goal of this project is to demonstrate data cleaning, data transformation, and dashboard creation skills commonly used in data analytics and business intelligence.
+The analysis follows an end-to-end data analytics workflow including data cleaning, transformation, pivot table analysis, business question solving, and interactive dashboard creation.
 
-📊 Dashboard Features
-
-The dashboard provides insights such as:
-
-Total Movies vs TV Shows
-
-Content distribution by country
-
-Popular genres
-
-Content release trend by year
-
-Ratings distribution (TV-MA, PG, etc.)
-
-Top producing countries
-
-Interactive filtering and slicing
-
-These visualizations help understand how Netflix content has evolved over time.
-
-🗂 Dataset Information
-
-The dataset contains information about Netflix titles including:
-
-Column	Description
-Show_ID	Unique ID of the content
-Type	Movie or TV Show
-Title	Name of the content
-Director	Director name
-Cast	Actors involved
-Country	Country of production
-Date Added	When it was added to Netflix
-Release Year	Year of release
-Rating	Content rating
-Duration	Movie duration / TV show seasons
-Genre	Category of content
-Description	Short summary
-🛠 Tools & Technologies Used
+Tools Used
 
 Microsoft Excel
 
-Data cleaning
+Data Cleaning & Preparation
 
 Pivot Tables
 
-Data transformation
+Excel Formulas
 
-Basic analysis
+Charts & Visualization
 
-Power BI
+Dashboard Design
 
-Data modeling
+Business Questions Answered
 
-Interactive dashboard
+What are the most popular genres on Netflix?
 
-Visual analytics
+Which type of content (TV Show or Movie) dominates the platform?
 
-Filters and slicers
+How has the release volume changed over the years?
 
-🔧 Data Cleaning Steps
+Which countries contribute most to Netflix’s content?
 
-The dataset was cleaned before analysis:
+What is the distribution of content ratings (TV-MA, PG, etc.)?
 
-Removed duplicate records
+Are there any patterns in content addition year-wise?
 
-Handled missing values
+Which directors have the most titles on Netflix?
 
-Standardized country and genre fields
+Key Insights
 
-Split multiple genres into structured format
+TV Shows and Movies are nearly balanced, with a slight edge toward Movies.
 
-Converted date columns into proper format
+Drama and Comedy dominate the genre distribution.
 
-Created calculated fields for analysis
+The volume of content additions peaked during 2019–2020.
 
-📈 Key Insights
+United States leads in content contribution, followed by India and UK.
 
-Some insights discovered from the dataset:
+TV-MA is the most frequent content rating.
 
-Movies make up the majority of Netflix content.
+Certain directors have significantly more shows/movies, showing content partnerships.
 
-The United States produces the most Netflix titles.
+Dashboard Preview
 
-Content releases increased rapidly after 2015.
 
-Drama and International Movies are among the most common genres.
 
-Most content is rated TV-MA.
+
+
+Conclusion
+
+This project demonstrates practical Excel skills such as data cleaning, pivot table analysis, and dashboard creation to generate meaningful business insights from Netflix content data. It reflects how data analysts can uncover trends, support business questions, and drive insights with structured spreadsheet workflows.
