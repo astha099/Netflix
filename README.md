@@ -47,7 +47,7 @@ The analysis follows an end-to-end data analytics workflow including data cleani
 
 Below is the final Excel dashboard created as part of this analysis.
 
-![Dashboard Preview](dba9b0a9-f53e-4e38-a0ec-2c4adf405831.png)
+![Dashboard Preview](netflix dashboard.png)
 
 ---
 
